@@ -1,0 +1,51 @@
+area_name,activities
+Park 0,"['birding', 'hiking', 'skiing']"
+Park 1,"['boating', 'birding']"
+Park 2,"['hiking', 'birding', 'camping', 'skiing']"
+Park 3,"['skiing', 'boating', 'hiking']"
+Park 4,"['camping', 'birding']"
+Park 5,"['camping', 'birding']"
+Park 6,"['skiing', 'boating', 'camping']"
+Park 7,['boating']
+Park 8,"['birding', 'camping']"
+Park 9,['birding']
+Park 10,"['camping', 'skiing']"
+Park 11,"['boating', 'camping', 'skiing', 'birding']"
+Park 12,"['skiing', 'hiking']"
+Park 13,"['boating', 'camping', 'birding', 'skiing']"
+Park 14,"['hiking', 'birding']"
+Park 15,"['hiking', 'camping']"
+Park 16,"['skiing', 'boating', 'camping']"
+Park 17,['hiking']
+Park 18,"['boating', 'camping', 'birding']"
+Park 19,"['hiking', 'camping', 'boating', 'birding']"
+Park 20,"['skiing', 'hiking', 'boating']"
+Park 21,"['birding', 'camping', 'skiing', 'hiking']"
+Park 22,"['skiing', 'birding', 'hiking', 'boating']"
+Park 23,"['birding', 'boating', 'camping', 'skiing']"
+Park 24,"['hiking', 'skiing', 'boating']"
+Park 25,"['birding', 'skiing', 'hiking', 'boating']"
+Park 26,"['birding', 'boating', 'skiing', 'camping']"
+Park 27,"['birding', 'camping']"
+Park 28,"['camping', 'boating', 'birding']"
+Park 29,"['hiking', 'skiing', 'camping', 'boating']"
+Park 30,['skiing']
+Park 31,"['hiking', 'skiing', 'birding', 'camping']"
+Park 32,"['camping', 'boating']"
+Park 33,"['birding', 'hiking']"
+Park 34,"['birding', 'camping', 'boating', 'hiking']"
+Park 35,['camping']
+Park 36,['camping']
+Park 37,"['hiking', 'boating']"
+Park 38,"['skiing', 'boating', 'hiking']"
+Park 39,['camping']
+Park 40,"['hiking', 'camping', 'birding', 'boating']"
+Park 41,"['birding', 'camping', 'skiing']"
+Park 42,"['birding', 'boating', 'hiking', 'camping']"
+Park 43,"['birding', 'camping', 'skiing']"
+Park 44,['boating']
+Park 45,"['camping', 'skiing', 'birding']"
+Park 46,['skiing']
+Park 47,"['skiing', 'boating']"
+Park 48,"['hiking', 'skiing']"
+Park 49,"['hiking', 'skiing']"

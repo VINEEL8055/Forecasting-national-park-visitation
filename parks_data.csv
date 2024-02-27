@@ -1,0 +1,51 @@
+area_name,popularity,elevation_gain,num_reviews,activities
+Park 0,52,487,347,"['birding', 'hiking', 'skiing']"
+Park 1,93,700,888,"['boating', 'birding']"
+Park 2,15,415,1086,"['hiking', 'birding', 'camping', 'skiing']"
+Park 3,72,113,4897,"['skiing', 'boating', 'hiking']"
+Park 4,61,341,4003,"['camping', 'birding']"
+Park 5,21,876,4869,"['camping', 'birding']"
+Park 6,83,1469,389,"['skiing', 'boating', 'camping']"
+Park 7,87,664,502,['boating']
+Park 8,75,997,2072,"['birding', 'camping']"
+Park 9,75,1463,3894,['birding']
+Park 10,88,191,74,"['camping', 'skiing']"
+Park 11,24,1490,2578,"['boating', 'camping', 'skiing', 'birding']"
+Park 12,3,1055,2037,"['skiing', 'hiking']"
+Park 13,22,1578,2705,"['boating', 'camping', 'birding', 'skiing']"
+Park 14,53,1551,1505,"['hiking', 'birding']"
+Park 15,2,608,401,"['hiking', 'camping']"
+Park 16,88,875,4524,"['skiing', 'boating', 'camping']"
+Park 17,30,134,4484,['hiking']
+Park 18,38,305,3571,"['boating', 'camping', 'birding']"
+Park 19,2,1204,2288,"['hiking', 'camping', 'boating', 'birding']"
+Park 20,64,1685,3109,"['skiing', 'hiking', 'boating']"
+Park 21,60,1995,210,"['birding', 'camping', 'skiing', 'hiking']"
+Park 22,21,1511,4885,"['skiing', 'birding', 'hiking', 'boating']"
+Park 23,33,1125,3114,"['birding', 'boating', 'camping', 'skiing']"
+Park 24,76,1121,4608,"['hiking', 'skiing', 'boating']"
+Park 25,58,1513,2464,"['birding', 'skiing', 'hiking', 'boating']"
+Park 26,22,665,3655,"['birding', 'boating', 'skiing', 'camping']"
+Park 27,89,1229,814,"['birding', 'camping']"
+Park 28,49,1895,2741,"['camping', 'boating', 'birding']"
+Park 29,91,1945,2783,"['hiking', 'skiing', 'camping', 'boating']"
+Park 30,59,1600,1580,['skiing']
+Park 31,42,802,2700,"['hiking', 'skiing', 'birding', 'camping']"
+Park 32,92,501,3850,"['camping', 'boating']"
+Park 33,60,829,1038,"['birding', 'hiking']"
+Park 34,80,1679,512,"['birding', 'camping', 'boating', 'hiking']"
+Park 35,15,261,4503,['camping']
+Park 36,62,301,880,['camping']
+Park 37,62,1095,4498,"['hiking', 'boating']"
+Park 38,47,369,216,"['skiing', 'boating', 'hiking']"
+Park 39,62,1986,1494,['camping']
+Park 40,51,915,873,"['hiking', 'camping', 'birding', 'boating']"
+Park 41,55,1394,2800,"['birding', 'camping', 'skiing']"
+Park 42,64,555,573,"['birding', 'boating', 'hiking', 'camping']"
+Park 43,3,1585,4201,"['birding', 'camping', 'skiing']"
+Park 44,51,1850,1767,['boating']
+Park 45,7,1375,1688,"['camping', 'skiing', 'birding']"
+Park 46,21,1116,3252,['skiing']
+Park 47,73,1825,4646,"['skiing', 'boating']"
+Park 48,39,395,1069,"['hiking', 'skiing']"
+Park 49,18,1848,1732,"['hiking', 'skiing']"
